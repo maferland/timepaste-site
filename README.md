@@ -6,6 +6,8 @@
 
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dfedc2b2-520b-41da-8b44-87c41644f25c/deploy-status)](https://app.netlify.com/sites/timepaste/deploys)
+
 ## Installation
 
 ```
